@@ -15,7 +15,7 @@ def element_finder(list_of_elements, element):
 
 
 def main():
-    # this function gets the marks
+    # this functionn adds elements to a list
 
     elements = []
 
